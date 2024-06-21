@@ -71,7 +71,7 @@
                 <ColumnDefinition Width="*"/>
             </Grid.ColumnDefinitions>
             <Button x:Name="btnAddPlaylist" Grid.Column="0" Content="Add Playlist" FontSize="16" Width="120" Height="25" Margin="5" Click="btnAddPlaylist_Click" Style="{StaticResource HoverButtonStyle}"/>
-            <Button x:Name="btnDeleteItem" Grid.Column="1" Content="Delete Playlist" FontSize="16" Width="120" Height="25" Margin="5" Click="btnDeleteItem_Click" Style="{StaticResource HoverButtonStyle}"/>
+            <Button x:Name="btnDeleteItem" Grid.Column="1" Content="Delete Item" FontSize="16" Width="120" Height="25" Margin="5" Click="btnDeleteItem_Click" Style="{StaticResource HoverButtonStyle}"/>
             <Button x:Name="btnAddFileToPlaylist" Grid.Column="2" Content="Add to Playlist" FontSize="16" Width="120" Height="25" Margin="5" Click="btnAddFileToPlaylist_Click" Style="{StaticResource HoverButtonStyle}"/>
         </Grid>
         <Grid  Grid.Row="4" Background="#121212">

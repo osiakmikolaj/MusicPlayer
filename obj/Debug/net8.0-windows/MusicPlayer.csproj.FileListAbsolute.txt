@@ -18,4 +18,4 @@ C:\Users\mikolaj\source\repos\MusicPlayer\MusicPlayer\obj\Debug\net8.0-windows\r
 C:\Users\mikolaj\source\repos\MusicPlayer\MusicPlayer\obj\Debug\net8.0-windows\MusicPlayer.pdb
 C:\Users\mikolaj\source\repos\MusicPlayer\MusicPlayer\obj\Debug\net8.0-windows\MusicPlayer.genruntimeconfig.cache
 C:\Users\mikolaj\source\repos\MusicPlayer\MusicPlayer\obj\Debug\net8.0-windows\ref\MusicPlayer.dll
-C:\Users\mikolaj\source\repos\MusicPlayer\MusicPlayer\obj\Debug\net8.0-windows\App.baml
+C:\Users\mikolaj\source\repos\MusicPlayer\MusicPlayer\obj\Debug\net8.0-windows\MusicPlayer.sourcelink.json
