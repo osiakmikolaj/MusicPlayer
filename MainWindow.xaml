@@ -7,7 +7,6 @@
         mc:Ignorable="d"
         Title="Music Player" Height="600" Width="1000">
     <Window.Resources>
-        <!-- Define the hover style for the button with a custom template -->
         <Style x:Key="HoverButtonStyle" TargetType="Button">
             <Setter Property="Background" Value="#1E1E1E"/>
             <Setter Property="Foreground" Value="#EEEEEE"/>
